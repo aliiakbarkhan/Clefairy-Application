@@ -1,5 +1,5 @@
 
-# Clefairy Mobile Application - Flutter
+# Clefairy - Women Safety Mobile Application
 
 <img src ="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dl704tk-450fbce7-231d-4e05-bdce-d96bd5bf5047.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMmNiZThhNC1mNTVjLTRiNDAtODViYi1kOGUxNDA1ZTdiODQvZGw3MDR0ay00NTBmYmNlNy0yMzFkLTRlMDUtYmRjZS1kOTZiZDViZjUwNDcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1dKEVPtafB3yF-nK35_9qvCbfGroFY1IdNs_-jsXpEo" />
 
@@ -36,7 +36,7 @@ Clefairy demonstrates how modern mobile applications can be designed with **effi
 ## Project Structure
 
 ```
-clefairy-application-antigravity
+clefairy
 │
 ├── lib
 │   ├── main.dart
